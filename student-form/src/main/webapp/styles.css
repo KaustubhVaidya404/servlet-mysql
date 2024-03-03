@@ -1,0 +1,15 @@
+div{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.submit{
+	margin: 10px;
+}
+
+.submit:hover{
+	background-color: #90ee90;
+}
